@@ -7,7 +7,7 @@ print(type(True))
 print(type(False))
 
 # 기본 형식
-
+ 
 # 예1
 if True:
     print("Yes")  # 들여쓰기 중요
