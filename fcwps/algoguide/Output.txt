@@ -1,0 +1,4 @@
+sys.stdout 2 >>  <_io.TextIOWrapper name='Output.txt' mode='w' encoding='UTF-8'>
+hi
+hello from moore
+exit
